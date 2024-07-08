@@ -39,6 +39,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
+# 🎖 Software
+- *Funmap*: A unified method to integrate high-dimensional functional annotations with fine-mapping.
+
 # 📖 Educations
 - *2024.09 - Present*, PhD. student in Biostatistics, City University of Hong Kong
 - *2020.09 - 2024.06*, Bachelor of Engineering in Data Science and Big Data Technology, Harbin Institute of Technology, Shenzhen
