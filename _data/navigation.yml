@@ -6,8 +6,8 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Preprints and Publications"
-    url: "/#-preprint-and-publications"
+  - title: "Publications and Preprints"
+    url: "/#-publications-and-preprints"
 
   - title: "Software"
     url: "/#-software"
