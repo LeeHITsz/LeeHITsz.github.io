@@ -6,20 +6,23 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Publications"
-    url: "/#-publications"
+  - title: "Preprints and Publications"
+    url: "/#-preprint-and-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
+  - title: "Software"
+    url: "/#-software"
+    
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "Intern and Exchange Experiences"
+    url: "/#-intern-and-exchange-experiences"
 
-  - title: "Internships"
-    url: "/#-internships"
+  - title: "Honors"
+    url: "/#-honors"
 
-  - title: "Test"
-    url: "/#-test"
+  - title: "Awards"
+    url: "/#-awards"
+
+  - title: "Teaching"
+    url: "/#-teaching"
