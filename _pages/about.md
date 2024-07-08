@@ -39,20 +39,20 @@ My research interest includes neural machine translation and computer vision.
 - *2022.07 - 2022.08*, Online exchange student, University of California, Riverside
 
 # 🏅 Honors
-- *2024.05*, <font color=red>Outstanding Graduate of HITSZ</font>
-- *2023.10*, <font color=red>National Scholarship (Undergraduate)</font>
+- <font color=red>*2024.05*, Outstanding Graduate of HITSZ</font>
+- <font color=red>*2023.10*, National Scholarship (Undergraduate)</font>
 - *2023.09*, First-class Academic Scholarship of HITSZ
 - *2022.09*, Second-class Academic Scholarship of HITSZ
 - *2021.09*, Second-class Academic Scholarship of HITSZ
 
 # 🏆 Awards
 - *2023*, Honorable Mention in Mathematical Contest in Modeling (MCM)
-- *2022*, <font color=red>First Prize (top 8%) in The Chinese Mathematics Competitions (CMC)</font>
+- <font color=red>*2022*, First Prize (top 8%) in The Chinese Mathematics Competitions (CMC)</font>
 - *2022*, First Prize (top 8%) in "Teddy Cup" national data analysis challenge
 - *2022*, First Prize in National Undergraduate Data Analysis Science Knowledge Contest
 - *2022*, Second Prize in China University Big Data Challenge
-- *2022*, <font color=red>Second Prize (top 2%) in China Undergraduate Mathematical Contest in Modeling (CUMCM)</font>
-- *2022*, <font color=red>First Prize (top 2%) in "Teddy Cup" national data mining challenge</font>
+- <font color=red>*2022*, Second Prize (top 2%) in China Undergraduate Mathematical Contest in Modeling (CUMCM)</font>
+- <font color=red>*2022*, First Prize (top 2%) in "Teddy Cup" national data mining challenge</font>
 
 # 📖 Teaching
 - *2023 Fall*, Applied Stochastic Processes, Teaching Assistant (Undergraduate)
