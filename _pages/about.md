@@ -20,11 +20,11 @@ redirect_from:
 My research interest includes neural machine translation and computer vision. 
 
 # 🔥 News
-- *2024.07*: Currently on vacation.
+- Currently on vacation.
 
 # 📝 Preprints and Publications 
 
-- 2024, [Funmap: integrating high-dimensional functional annotations to improve fine-mapping](https://www.medrxiv.org/content/10.1101/2024.06.25.24309459v1), Yuekai Li, Jiashun Xiao, Jingsi Ming, Yicheng Zeng, Mingxuan Cai, **medRxiv**
+- [Funmap: integrating high-dimensional functional annotations to improve fine-mapping](https://www.medrxiv.org/content/10.1101/2024.06.25.24309459v1), Yuekai Li, Jiashun Xiao, Jingsi Ming, Yicheng Zeng, Mingxuan Cai, **medRxiv**
 
 # 🎖 Software
 - [Funmap](https://github.com/LeeHITsz/Funmap): A unified method to integrate high-dimensional functional annotations with fine-mapping.
