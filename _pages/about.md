@@ -22,7 +22,7 @@ My research interest includes neural machine translation and computer vision.
 # 📰 News
 - Currently on vacation.
 
-# 📝 Preprints and Publications 
+# 📝 Publications and Preprints 
 
 - [Funmap: integrating high-dimensional functional annotations to improve fine-mapping](https://www.medrxiv.org/content/10.1101/2024.06.25.24309459v1), Yuekai Li, Jiashun Xiao, Jingsi Ming, Yicheng Zeng, Mingxuan Cai, **medRxiv**
 
@@ -55,4 +55,4 @@ My research interest includes neural machine translation and computer vision.
 - *2022*, <font color=red>First Prize (top 2%) in "Teddy Cup" national data mining challenge</font>
 
 # 📖 Teaching
-- *2023 Fall*, Applied Stochastic Processes, Teaching Assistant (Undergraduate)
+- *2023 Fall*, Applied Stochastic Processes, Teaching Assistant, HITSZ (Undergraduate)
