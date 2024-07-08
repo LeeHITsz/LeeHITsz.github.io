@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuekai Li"
-description              : "The homepage of Yuekai Li."
+description              : "PhD. student in Biostatistics at City University of Hong Kong"
 repository               : "LeeHITsz/LeeHITsz.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuekai Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "City University of Hong Kong"
+  avatar           : "images/VXavatar.png"
+  bio              : "CityU of Hong Kong"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
