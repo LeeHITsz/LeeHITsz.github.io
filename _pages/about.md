@@ -24,7 +24,7 @@ redirect_from:
 
 ---
 
-My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. My research interest includes neural machine translation and computer vision. 
+I grew up in Yingkou, a small city in southern Liaoning province, China. Then I commenced my undergraduate studies at Harbin Institute of Technology, Shenzhen (HITSZ) in Shenzhen, Guangdong, where I obtained my bachelor's degree of Engineering in Data Science and Big Data Technology. I am currently undergoing doctoral training at City University of Hong Kong (CityU) under the guidance of [Professor Mingxuan Cai](https://mxcai.github.io/). My passions lie broadly in statistical machine learning and data science, particularly with applications in genetics and genomics data to better understand complex biological systems.
 
 # 📰 News
 - Currently on vacation.
