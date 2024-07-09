@@ -25,7 +25,8 @@ redirect_from:
 ---
 
 <div style="line-height: 2;">
-I grew up in Yingkou, a small city in southern Liaoning province, China. Then I commenced my undergraduate studies at Harbin Institute of Technology, Shenzhen (HITSZ) in Shenzhen, Guangdong, where I obtained my bachelor's degree of Engineering in Data Science and Big Data Technology. I am currently undergoing doctoral training at City University of Hong Kong (CityU) under the guidance of [Professor Mingxuan Cai](https://mxcai.github.io/). My passions lie broadly in statistical machine learning and data science, particularly with applications in genetics and genomics data to better understand complex biological systems.
+Hi, My name is Li Yuekai.I grew up in Yingkou, a small city in southern Liaoning province, China. Then I commenced my undergraduate studies at Harbin Institute of Technology, Shenzhen (HITSZ) in Shenzhen, Guangdong, where I obtained my bachelor's degree of Engineering in Data Science and Big Data Technology. I am currently undergoing doctoral training at City University of Hong Kong (CityU) under the guidance of <a href="https://mxcai.github.io/">Professor Mingxuan Cai</a>.<br>
+My passions lie broadly in statistical machine learning and data science, particularly with applications in genetics and genomics data to better understand complex biological systems.
 </div>
 
 # 📰 News
