@@ -17,6 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<font face="Comic Sans MS" size=5>"The stars are not afraid to appear like fireflies."</font>
+
+<font face="Comic Sans MS" size=4>— Rabindranath Tagore, Stray Birds</font>
+
+---
+
 My research interest includes neural machine translation and computer vision. 
 
 # 📰 News
