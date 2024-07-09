@@ -17,8 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font face="Comic Sans MS" size=5>**"The stars are not afraid to appear like fireflies."**</font><br>
-<font face="Comic Sans MS" size=4>— Rabindranath Tagore, Stray Birds</font>
+<div align=right><font face="Comic Sans MS" size=5><b>"The stars are not afraid to appear like fireflies."</b>
+</font></div><br>
+<div align=right><font face="Comic Sans MS" size=4>— Rabindranath Tagore, Stray Birds
+</font></div>
 
 ---
 
