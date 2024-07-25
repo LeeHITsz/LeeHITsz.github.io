@@ -35,7 +35,7 @@ My passions lie broadly in statistical machine learning and data science, partic
 
 # 📝 Publications and Preprints 
 
-- [Funmap: integrating high-dimensional functional annotations to improve fine-mapping](https://www.medrxiv.org/content/10.1101/2024.06.25.24309459v1), Yuekai Li, Jiashun Xiao, Jingsi Ming, Yicheng Zeng, Mingxuan Cai, **medRxiv**
+Yuekai Li, Jiashun Xiao, Jingsi Ming, Yicheng Zeng, Mingxuan Cai. (2024). [Funmap: integrating high-dimensional functional annotations to improve fine-mapping](https://doi.org/10.1101/2024.06.25.24309459) _medRxiv_
 
 # 💾 Software
 - [Funmap](https://github.com/LeeHITsz/Funmap): A unified method to integrate high-dimensional functional annotations with fine-mapping.
